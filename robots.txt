@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Sitemap: https://openclawos.info/sitemap.xml
+
+# ClawBox - AI Hardware by OpenClaw Hardware
+# Official store: https://openclawhardware.dev/
